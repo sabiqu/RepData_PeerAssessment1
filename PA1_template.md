@@ -3,8 +3,7 @@
 ## Loading and preprocessing the data
 
 ```r
-unzip(zipfile = "C:\\Users\\skunnummal\\Downloads\\RepData_PeerAssessment1-master.zip")
-data <- read.csv("activity.csv")
+data <- read.csv("C:\Users\skunnummal\Downloads\\activity.csv")
 ```
 
 
